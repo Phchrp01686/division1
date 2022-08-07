@@ -44,6 +44,7 @@
             this.OFF = new System.Windows.Forms.Button();
             this.CE = new System.Windows.Forms.Button();
             this.Display = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // num1
@@ -64,7 +65,7 @@
             this.num0.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.num0.Location = new System.Drawing.Point(77, 370);
             this.num0.Name = "num0";
-            this.num0.Size = new System.Drawing.Size(189, 45);
+            this.num0.Size = new System.Drawing.Size(118, 45);
             this.num0.TabIndex = 5;
             this.num0.Text = "0";
             this.num0.UseVisualStyleBackColor = false;
@@ -225,6 +226,18 @@
             this.Display.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.Display.TextChanged += new System.EventHandler(this.Result_TextChanged);
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.DodgerBlue;
+            this.button1.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.button1.Location = new System.Drawing.Point(217, 356);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(49, 49);
+            this.button1.TabIndex = 22;
+            this.button1.Text = ".";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -232,6 +245,7 @@
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.Display);
             this.Controls.Add(this.CE);
             this.Controls.Add(this.OFF);
@@ -271,6 +285,7 @@
         private System.Windows.Forms.Button OFF;
         private System.Windows.Forms.Button CE;
         private System.Windows.Forms.TextBox Display;
+        private System.Windows.Forms.Button button1;
     }
 }
 

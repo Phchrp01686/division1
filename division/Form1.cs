@@ -101,6 +101,11 @@ namespace division
             Display.Text = "";
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Display.Text = Display.Text + ".";
+        }
+
         private void num9_Click(object sender, EventArgs e)
         {
             Display.Text = Display.Text + "9";
