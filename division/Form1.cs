@@ -93,7 +93,7 @@ namespace division
 
         private void OFF_Click(object sender, EventArgs e)
         {
-          
+            this.Close();
         }
 
         private void CE_Click(object sender, EventArgs e)
