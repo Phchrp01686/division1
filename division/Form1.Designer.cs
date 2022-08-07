@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.num1 = new System.Windows.Forms.Button();
             this.num0 = new System.Windows.Forms.Button();
             this.num7 = new System.Windows.Forms.Button();
@@ -173,7 +174,7 @@
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(117, 118);
             this.button14.TabIndex = 17;
-            this.button14.Text = "/";
+            this.button14.Text = "x";
             this.button14.UseVisualStyleBackColor = false;
             this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
@@ -229,6 +230,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.Display);
             this.Controls.Add(this.CE);

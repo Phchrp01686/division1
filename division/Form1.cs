@@ -78,17 +78,17 @@ namespace division
         {
             num11 = int.Parse(Display.Text);
             Display.Text = "";
-            op = "/";
+            op = "*";
         }
 
         private void Division_Click(object sender, EventArgs e)
         {
             num12=int.Parse(Display.Text);
-            if (op == "/")
+            if (op == "*")
             {
-                num13 = num11 / num12;
+                num13 = num11 * num12;
                 Display.Text = num13.ToString();
-            }//Close /
+            }//Close *
         }
 
         private void OFF_Click(object sender, EventArgs e)
