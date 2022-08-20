@@ -68,20 +68,21 @@ Partial Class Form1
         '
         Me.ListBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.ItemHeight = 36
+        Me.ListBox1.ItemHeight = 29
         Me.ListBox1.Items.AddRange(New Object() {"1/1", "2/1", "3/1", "4/1", "5/1", "6/1", "7/1", "8/1", "9/1", "10/1", "1/2", "2/2", "3/2", "4/2", "5/2", "6/2", "7/2", "8/2", "9/2", "10/2"})
-        Me.ListBox1.Location = New System.Drawing.Point(6, 70)
+        Me.ListBox1.Location = New System.Drawing.Point(5, 52)
+        Me.ListBox1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(149, 256)
+        Me.ListBox1.Size = New System.Drawing.Size(131, 178)
         Me.ListBox1.TabIndex = 0
         '
         'Label1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(6, 24)
+        Me.Label1.Location = New System.Drawing.Point(5, 18)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(128, 36)
+        Me.Label1.Size = New System.Drawing.Size(101, 29)
         Me.Label1.TabIndex = 1
         Me.Label1.Text = "บ้านเลขที่"
         '
@@ -89,9 +90,9 @@ Partial Class Form1
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label5.Location = New System.Drawing.Point(502, 9)
+        Me.Label5.Location = New System.Drawing.Point(439, 7)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(230, 51)
+        Me.Label5.Size = New System.Drawing.Size(188, 39)
         Me.Label5.TabIndex = 11
         Me.Label5.Text = "คำนวนค่าไฟ"
         '
@@ -115,11 +116,12 @@ Partial Class Form1
         DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
         DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.DataGridView1.DefaultCellStyle = DataGridViewCellStyle2
-        Me.DataGridView1.Location = New System.Drawing.Point(27, 480)
+        Me.DataGridView1.Location = New System.Drawing.Point(24, 360)
+        Me.DataGridView1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.RowHeadersWidth = 51
         Me.DataGridView1.RowTemplate.Height = 29
-        Me.DataGridView1.Size = New System.Drawing.Size(932, 157)
+        Me.DataGridView1.Size = New System.Drawing.Size(816, 118)
         Me.DataGridView1.TabIndex = 18
         '
         'home
@@ -174,9 +176,10 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Button2.Location = New System.Drawing.Point(989, 480)
+        Me.Button2.Location = New System.Drawing.Point(865, 360)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(185, 47)
+        Me.Button2.Size = New System.Drawing.Size(162, 35)
         Me.Button2.TabIndex = 19
         Me.Button2.Text = "ยกเลิก"
         Me.Button2.UseVisualStyleBackColor = True
@@ -184,9 +187,10 @@ Partial Class Form1
         'Button3
         '
         Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Button3.Location = New System.Drawing.Point(989, 570)
+        Me.Button3.Location = New System.Drawing.Point(865, 428)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(185, 47)
+        Me.Button3.Size = New System.Drawing.Size(162, 35)
         Me.Button3.TabIndex = 20
         Me.Button3.Text = "ออกจาระบบ"
         Me.Button3.UseVisualStyleBackColor = True
@@ -194,17 +198,19 @@ Partial Class Form1
         'TextBox1
         '
         Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.TextBox1.Location = New System.Drawing.Point(234, 77)
+        Me.TextBox1.Location = New System.Drawing.Point(205, 52)
+        Me.TextBox1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox1.Size = New System.Drawing.Size(161, 35)
         Me.TextBox1.TabIndex = 2
         '
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Button1.Location = New System.Drawing.Point(363, 295)
+        Me.Button1.Location = New System.Drawing.Point(318, 221)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(185, 47)
+        Me.Button1.Size = New System.Drawing.Size(162, 35)
         Me.Button1.TabIndex = 5
         Me.Button1.Text = "ตกลง"
         Me.Button1.UseVisualStyleBackColor = True
@@ -212,26 +218,28 @@ Partial Class Form1
         'TextBox2
         '
         Me.TextBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.TextBox2.Location = New System.Drawing.Point(487, 77)
+        Me.TextBox2.Location = New System.Drawing.Point(426, 52)
+        Me.TextBox2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox2.Size = New System.Drawing.Size(161, 35)
         Me.TextBox2.TabIndex = 6
         '
         'TextBox3
         '
         Me.TextBox3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.TextBox3.Location = New System.Drawing.Point(363, 193)
+        Me.TextBox3.Location = New System.Drawing.Point(333, 144)
+        Me.TextBox3.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox3.Size = New System.Drawing.Size(161, 35)
         Me.TextBox3.TabIndex = 7
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label2.Location = New System.Drawing.Point(234, 24)
+        Me.Label2.Location = New System.Drawing.Point(205, 18)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(225, 36)
+        Me.Label2.Size = New System.Drawing.Size(179, 29)
         Me.Label2.TabIndex = 8
         Me.Label2.Text = "มิเตอร์น้ำครั้งก่อน"
         '
@@ -239,9 +247,9 @@ Partial Class Form1
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label3.Location = New System.Drawing.Point(487, 24)
+        Me.Label3.Location = New System.Drawing.Point(426, 18)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(220, 36)
+        Me.Label3.Size = New System.Drawing.Size(174, 29)
         Me.Label3.TabIndex = 9
         Me.Label3.Text = "มิเตอร์น้ำครั้งหลัง"
         '
@@ -249,27 +257,28 @@ Partial Class Form1
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label4.Location = New System.Drawing.Point(401, 151)
+        Me.Label4.Location = New System.Drawing.Point(351, 113)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(148, 36)
+        Me.Label4.Size = New System.Drawing.Size(115, 29)
         Me.Label4.TabIndex = 10
         Me.Label4.Text = "จำนวนที่ใช้"
         '
         'TextBox4
         '
         Me.TextBox4.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.TextBox4.Location = New System.Drawing.Point(667, 295)
+        Me.TextBox4.Location = New System.Drawing.Point(584, 221)
+        Me.TextBox4.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox4.Size = New System.Drawing.Size(161, 35)
         Me.TextBox4.TabIndex = 12
         '
         'Label6
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label6.Location = New System.Drawing.Point(609, 308)
+        Me.Label6.Location = New System.Drawing.Point(519, 224)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(73, 36)
+        Me.Label6.Size = New System.Drawing.Size(59, 29)
         Me.Label6.TabIndex = 13
         Me.Label6.Text = "ราคา"
         '
@@ -277,18 +286,18 @@ Partial Class Form1
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label7.Location = New System.Drawing.Point(856, 308)
+        Me.Label7.Location = New System.Drawing.Point(749, 231)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(64, 36)
+        Me.Label7.Size = New System.Drawing.Size(51, 29)
         Me.Label7.TabIndex = 15
         Me.Label7.Text = "บาท"
         '
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(711, 170)
+        Me.Label8.Location = New System.Drawing.Point(622, 128)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(34, 20)
+        Me.Label8.Size = New System.Drawing.Size(26, 15)
         Me.Label8.TabIndex = 16
         Me.Label8.Text = "ภาษี"
         '
@@ -299,9 +308,11 @@ Partial Class Form1
         Me.GroupBox1.Controls.Add(Me.RadioButton2)
         Me.GroupBox1.Controls.Add(Me.RadioButton1)
         Me.GroupBox1.Controls.Add(Me.Label9)
-        Me.GroupBox1.Location = New System.Drawing.Point(700, 43)
+        Me.GroupBox1.Location = New System.Drawing.Point(612, 32)
+        Me.GroupBox1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(192, 125)
+        Me.GroupBox1.Padding = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.GroupBox1.Size = New System.Drawing.Size(168, 94)
         Me.GroupBox1.TabIndex = 31
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "GroupBox1"
@@ -310,9 +321,10 @@ Partial Class Form1
         '
         Me.RadioButton4.AutoSize = True
         Me.RadioButton4.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.RadioButton4.Location = New System.Drawing.Point(79, 64)
+        Me.RadioButton4.Location = New System.Drawing.Point(69, 48)
+        Me.RadioButton4.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.RadioButton4.Name = "RadioButton4"
-        Me.RadioButton4.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton4.Size = New System.Drawing.Size(57, 33)
         Me.RadioButton4.TabIndex = 30
         Me.RadioButton4.TabStop = True
         Me.RadioButton4.Text = "25"
@@ -322,9 +334,10 @@ Partial Class Form1
         '
         Me.RadioButton3.AutoSize = True
         Me.RadioButton3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.RadioButton3.Location = New System.Drawing.Point(11, 64)
+        Me.RadioButton3.Location = New System.Drawing.Point(10, 48)
+        Me.RadioButton3.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.RadioButton3.Name = "RadioButton3"
-        Me.RadioButton3.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton3.Size = New System.Drawing.Size(57, 33)
         Me.RadioButton3.TabIndex = 29
         Me.RadioButton3.TabStop = True
         Me.RadioButton3.Text = "20"
@@ -334,9 +347,10 @@ Partial Class Form1
         '
         Me.RadioButton2.AutoSize = True
         Me.RadioButton2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.RadioButton2.Location = New System.Drawing.Point(79, 34)
+        Me.RadioButton2.Location = New System.Drawing.Point(69, 26)
+        Me.RadioButton2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.RadioButton2.Name = "RadioButton2"
-        Me.RadioButton2.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton2.Size = New System.Drawing.Size(57, 33)
         Me.RadioButton2.TabIndex = 28
         Me.RadioButton2.TabStop = True
         Me.RadioButton2.Text = "15"
@@ -346,9 +360,10 @@ Partial Class Form1
         '
         Me.RadioButton1.AutoSize = True
         Me.RadioButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.RadioButton1.Location = New System.Drawing.Point(11, 34)
+        Me.RadioButton1.Location = New System.Drawing.Point(10, 26)
+        Me.RadioButton1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton1.Size = New System.Drawing.Size(57, 33)
         Me.RadioButton1.TabIndex = 27
         Me.RadioButton1.TabStop = True
         Me.RadioButton1.Text = "10"
@@ -358,9 +373,9 @@ Partial Class Form1
         '
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label9.Location = New System.Drawing.Point(11, 0)
+        Me.Label9.Location = New System.Drawing.Point(10, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(139, 36)
+        Me.Label9.Size = New System.Drawing.Size(113, 29)
         Me.Label9.TabIndex = 17
         Me.Label9.Text = "หน่วย/บาท"
         '
@@ -369,9 +384,11 @@ Partial Class Form1
         Me.GroupBox2.Controls.Add(Me.RadioButton6)
         Me.GroupBox2.Controls.Add(Me.RadioButton5)
         Me.GroupBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.GroupBox2.Location = New System.Drawing.Point(700, 173)
+        Me.GroupBox2.Location = New System.Drawing.Point(612, 130)
+        Me.GroupBox2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(191, 76)
+        Me.GroupBox2.Padding = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.GroupBox2.Size = New System.Drawing.Size(167, 57)
         Me.GroupBox2.TabIndex = 32
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "ภาษี"
@@ -380,9 +397,10 @@ Partial Class Form1
         '
         Me.RadioButton6.AutoSize = True
         Me.RadioButton6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.RadioButton6.Location = New System.Drawing.Point(97, 36)
+        Me.RadioButton6.Location = New System.Drawing.Point(85, 27)
+        Me.RadioButton6.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.RadioButton6.Name = "RadioButton6"
-        Me.RadioButton6.Size = New System.Drawing.Size(80, 40)
+        Me.RadioButton6.Size = New System.Drawing.Size(66, 33)
         Me.RadioButton6.TabIndex = 31
         Me.RadioButton6.TabStop = True
         Me.RadioButton6.Text = "5%"
@@ -392,9 +410,10 @@ Partial Class Form1
         '
         Me.RadioButton5.AutoSize = True
         Me.RadioButton5.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.RadioButton5.Location = New System.Drawing.Point(11, 35)
+        Me.RadioButton5.Location = New System.Drawing.Point(10, 26)
+        Me.RadioButton5.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.RadioButton5.Name = "RadioButton5"
-        Me.RadioButton5.Size = New System.Drawing.Size(80, 40)
+        Me.RadioButton5.Size = New System.Drawing.Size(66, 33)
         Me.RadioButton5.TabIndex = 31
         Me.RadioButton5.TabStop = True
         Me.RadioButton5.Text = "3%"
@@ -417,21 +436,24 @@ Partial Class Form1
         Me.Panel1.Controls.Add(Me.TextBox1)
         Me.Panel1.Controls.Add(Me.Label1)
         Me.Panel1.Controls.Add(Me.ListBox1)
-        Me.Panel1.Location = New System.Drawing.Point(27, 88)
+        Me.Panel1.Location = New System.Drawing.Point(24, 66)
+        Me.Panel1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(932, 372)
+        Me.Panel1.Size = New System.Drawing.Size(816, 279)
         Me.Panel1.TabIndex = 33
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1212, 649)
+        Me.BackColor = System.Drawing.SystemColors.AppWorkspace
+        Me.ClientSize = New System.Drawing.Size(1060, 487)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.Label5)
+        Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Name = "Form1"
         Me.Text = "โปรแกรมคำนวนค่าน้ำ"
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()

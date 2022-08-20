@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {}
+    "D:\\source_code\\New folder (2)\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {
+    "D:\\source_code\\New folder (2)\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
+        "projectUniqueName": "D:\\source_code\\New folder (2)\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
         "projectName": "water bill program",
-        "projectPath": "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
-        "packagesPath": "C:\\Users\\PHATCHARAPHON_21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\obj\\",
+        "projectPath": "D:\\source_code\\New folder (2)\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
+        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
+        "outputPath": "D:\\source_code\\New folder (2)\\water-bill-program\\water bill program\\water bill program\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\PHATCHARAPHON_21\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
