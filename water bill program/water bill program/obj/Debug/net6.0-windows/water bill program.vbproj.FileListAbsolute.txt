@@ -32,3 +32,20 @@ E:\Users\iigluayy\Documents\GitHub\water-bill-program\water bill program\water b
 E:\Users\iigluayy\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.pdb
 E:\Users\iigluayy\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.genruntimeconfig.cache
 E:\Users\iigluayy\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\ref\water bill program.dll
+E:\งาน\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.exe
+E:\งาน\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.deps.json
+E:\งาน\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.runtimeconfig.json
+E:\งาน\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.dll
+E:\งาน\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.pdb
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.vbproj.AssemblyReference.cache
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water_bill_program.Form1.resources
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.vbproj.GenerateResource.cache
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.GeneratedMSBuildEditorConfig.editorconfig
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.AssemblyInfoInputs.cache
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.AssemblyInfo.vb
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.vbproj.CoreCompileInputs.cache
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.dll
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\refint\water bill program.dll
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.pdb
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.genruntimeconfig.cache
+E:\งาน\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\ref\water bill program.dll

@@ -66,32 +66,32 @@ Partial Class Form1
         '
         'ListBox1
         '
-        Me.ListBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.ListBox1.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.ItemHeight = 36
+        Me.ListBox1.ItemHeight = 29
         Me.ListBox1.Items.AddRange(New Object() {"1/1", "2/1", "3/1", "4/1", "5/1", "6/1", "7/1", "8/1", "9/1", "10/1", "1/2", "2/2", "3/2", "4/2", "5/2", "6/2", "7/2", "8/2", "9/2", "10/2"})
         Me.ListBox1.Location = New System.Drawing.Point(6, 70)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(149, 256)
+        Me.ListBox1.Size = New System.Drawing.Size(149, 236)
         Me.ListBox1.TabIndex = 0
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label1.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label1.Location = New System.Drawing.Point(6, 24)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(128, 36)
+        Me.Label1.Size = New System.Drawing.Size(101, 30)
         Me.Label1.TabIndex = 1
         Me.Label1.Text = "บ้านเลขที่"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label5.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label5.Location = New System.Drawing.Point(502, 9)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(230, 51)
+        Me.Label5.Size = New System.Drawing.Size(128, 30)
         Me.Label5.TabIndex = 11
         Me.Label5.Text = "คำนวนค่าไฟ"
         '
@@ -173,35 +173,35 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Button2.Font = New System.Drawing.Font("TeamViewer15", 16.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Button2.Location = New System.Drawing.Point(989, 480)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(185, 47)
+        Me.Button2.Size = New System.Drawing.Size(185, 62)
         Me.Button2.TabIndex = 19
         Me.Button2.Text = "ยกเลิก"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Button3.Font = New System.Drawing.Font("TeamViewer15", 16.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Button3.Location = New System.Drawing.Point(989, 570)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(185, 47)
+        Me.Button3.Size = New System.Drawing.Size(185, 67)
         Me.Button3.TabIndex = 20
         Me.Button3.Text = "ออกจาระบบ"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'TextBox1
         '
-        Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.TextBox1.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.TextBox1.Location = New System.Drawing.Point(234, 77)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox1.Size = New System.Drawing.Size(183, 39)
         Me.TextBox1.TabIndex = 2
         '
         'Button1
         '
-        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Button1.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Button1.Location = New System.Drawing.Point(363, 295)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(185, 47)
@@ -211,75 +211,75 @@ Partial Class Form1
         '
         'TextBox2
         '
-        Me.TextBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.TextBox2.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.TextBox2.Location = New System.Drawing.Point(487, 77)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox2.Size = New System.Drawing.Size(183, 39)
         Me.TextBox2.TabIndex = 6
         '
         'TextBox3
         '
-        Me.TextBox3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.TextBox3.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.TextBox3.Location = New System.Drawing.Point(363, 193)
         Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox3.Size = New System.Drawing.Size(183, 39)
         Me.TextBox3.TabIndex = 7
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label2.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label2.Location = New System.Drawing.Point(234, 24)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(225, 36)
+        Me.Label2.Size = New System.Drawing.Size(169, 30)
         Me.Label2.TabIndex = 8
         Me.Label2.Text = "มิเตอร์น้ำครั้งก่อน"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label3.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label3.Location = New System.Drawing.Point(487, 24)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(220, 36)
+        Me.Label3.Size = New System.Drawing.Size(166, 30)
         Me.Label3.TabIndex = 9
         Me.Label3.Text = "มิเตอร์น้ำครั้งหลัง"
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label4.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label4.Location = New System.Drawing.Point(401, 151)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(148, 36)
+        Me.Label4.Size = New System.Drawing.Size(118, 30)
         Me.Label4.TabIndex = 10
         Me.Label4.Text = "จำนวนที่ใช้"
         '
         'TextBox4
         '
-        Me.TextBox4.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.TextBox4.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.TextBox4.Location = New System.Drawing.Point(667, 295)
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(183, 41)
+        Me.TextBox4.Size = New System.Drawing.Size(183, 39)
         Me.TextBox4.TabIndex = 12
         '
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label6.Location = New System.Drawing.Point(609, 308)
+        Me.Label6.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.Label6.Location = New System.Drawing.Point(588, 300)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(73, 36)
+        Me.Label6.Size = New System.Drawing.Size(59, 30)
         Me.Label6.TabIndex = 13
         Me.Label6.Text = "ราคา"
         '
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label7.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label7.Location = New System.Drawing.Point(856, 308)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(64, 36)
+        Me.Label7.Size = New System.Drawing.Size(52, 30)
         Me.Label7.TabIndex = 15
         Me.Label7.Text = "บาท"
         '
@@ -309,10 +309,10 @@ Partial Class Form1
         'RadioButton4
         '
         Me.RadioButton4.AutoSize = True
-        Me.RadioButton4.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.RadioButton4.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.RadioButton4.Location = New System.Drawing.Point(79, 64)
         Me.RadioButton4.Name = "RadioButton4"
-        Me.RadioButton4.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton4.Size = New System.Drawing.Size(64, 34)
         Me.RadioButton4.TabIndex = 30
         Me.RadioButton4.TabStop = True
         Me.RadioButton4.Text = "25"
@@ -321,10 +321,10 @@ Partial Class Form1
         'RadioButton3
         '
         Me.RadioButton3.AutoSize = True
-        Me.RadioButton3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.RadioButton3.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.RadioButton3.Location = New System.Drawing.Point(11, 64)
         Me.RadioButton3.Name = "RadioButton3"
-        Me.RadioButton3.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton3.Size = New System.Drawing.Size(64, 34)
         Me.RadioButton3.TabIndex = 29
         Me.RadioButton3.TabStop = True
         Me.RadioButton3.Text = "20"
@@ -333,10 +333,10 @@ Partial Class Form1
         'RadioButton2
         '
         Me.RadioButton2.AutoSize = True
-        Me.RadioButton2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.RadioButton2.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.RadioButton2.Location = New System.Drawing.Point(79, 34)
         Me.RadioButton2.Name = "RadioButton2"
-        Me.RadioButton2.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton2.Size = New System.Drawing.Size(64, 34)
         Me.RadioButton2.TabIndex = 28
         Me.RadioButton2.TabStop = True
         Me.RadioButton2.Text = "15"
@@ -345,10 +345,10 @@ Partial Class Form1
         'RadioButton1
         '
         Me.RadioButton1.AutoSize = True
-        Me.RadioButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.RadioButton1.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.RadioButton1.Location = New System.Drawing.Point(11, 34)
         Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(70, 40)
+        Me.RadioButton1.Size = New System.Drawing.Size(64, 34)
         Me.RadioButton1.TabIndex = 27
         Me.RadioButton1.TabStop = True
         Me.RadioButton1.Text = "10"
@@ -357,10 +357,10 @@ Partial Class Form1
         'Label9
         '
         Me.Label9.AutoSize = True
-        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label9.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label9.Location = New System.Drawing.Point(11, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(139, 36)
+        Me.Label9.Size = New System.Drawing.Size(114, 30)
         Me.Label9.TabIndex = 17
         Me.Label9.Text = "หน่วย/บาท"
         '
@@ -368,7 +368,7 @@ Partial Class Form1
         '
         Me.GroupBox2.Controls.Add(Me.RadioButton6)
         Me.GroupBox2.Controls.Add(Me.RadioButton5)
-        Me.GroupBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.GroupBox2.Font = New System.Drawing.Font("TeamViewer15", 16.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.GroupBox2.Location = New System.Drawing.Point(700, 173)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(191, 76)
@@ -379,10 +379,10 @@ Partial Class Form1
         'RadioButton6
         '
         Me.RadioButton6.AutoSize = True
-        Me.RadioButton6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.RadioButton6.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.RadioButton6.Location = New System.Drawing.Point(97, 36)
         Me.RadioButton6.Name = "RadioButton6"
-        Me.RadioButton6.Size = New System.Drawing.Size(80, 40)
+        Me.RadioButton6.Size = New System.Drawing.Size(73, 34)
         Me.RadioButton6.TabIndex = 31
         Me.RadioButton6.TabStop = True
         Me.RadioButton6.Text = "5%"
@@ -391,10 +391,10 @@ Partial Class Form1
         'RadioButton5
         '
         Me.RadioButton5.AutoSize = True
-        Me.RadioButton5.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.RadioButton5.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.RadioButton5.Location = New System.Drawing.Point(11, 35)
         Me.RadioButton5.Name = "RadioButton5"
-        Me.RadioButton5.Size = New System.Drawing.Size(80, 40)
+        Me.RadioButton5.Size = New System.Drawing.Size(73, 34)
         Me.RadioButton5.TabIndex = 31
         Me.RadioButton5.TabStop = True
         Me.RadioButton5.Text = "3%"
