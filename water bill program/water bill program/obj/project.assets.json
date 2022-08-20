@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PRWz\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
+      "projectUniqueName": "D:\\ป.ตรี\\VB ม่วง\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
       "projectName": "water bill program",
-      "projectPath": "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
-      "packagesPath": "C:\\Users\\PRWz\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\obj\\",
+      "projectPath": "D:\\ป.ตรี\\VB ม่วง\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\ป.ตรี\\VB ม่วง\\water-bill-program\\water bill program\\water bill program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PRWz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
