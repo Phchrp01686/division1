@@ -173,23 +173,25 @@ Partial Class Form1
         '
         'Button2
         '
+        Me.Button2.BackColor = System.Drawing.Color.Yellow
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Button2.Location = New System.Drawing.Point(989, 480)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(185, 47)
         Me.Button2.TabIndex = 19
         Me.Button2.Text = "ยกเลิก"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.Button2.UseVisualStyleBackColor = False
         '
         'Button3
         '
+        Me.Button3.BackColor = System.Drawing.Color.Red
         Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Button3.Location = New System.Drawing.Point(989, 570)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(185, 47)
         Me.Button3.TabIndex = 20
         Me.Button3.Text = "ออกจาระบบ"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Button3.UseVisualStyleBackColor = False
         '
         'TextBox1
         '
@@ -201,13 +203,14 @@ Partial Class Form1
         '
         'Button1
         '
+        Me.Button1.BackColor = System.Drawing.Color.Lime
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Button1.Location = New System.Drawing.Point(363, 295)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(185, 47)
         Me.Button1.TabIndex = 5
         Me.Button1.Text = "ตกลง"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.UseVisualStyleBackColor = False
         '
         'TextBox2
         '
@@ -267,7 +270,7 @@ Partial Class Form1
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label6.Location = New System.Drawing.Point(609, 308)
+        Me.Label6.Location = New System.Drawing.Point(575, 300)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(73, 36)
         Me.Label6.TabIndex = 13
@@ -277,7 +280,7 @@ Partial Class Form1
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label7.Location = New System.Drawing.Point(856, 308)
+        Me.Label7.Location = New System.Drawing.Point(856, 300)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(64, 36)
         Me.Label7.TabIndex = 15
