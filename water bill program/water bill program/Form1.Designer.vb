@@ -88,10 +88,10 @@ Partial Class Form1
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Label5.Location = New System.Drawing.Point(502, 9)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(230, 51)
+        Me.Label5.Size = New System.Drawing.Size(212, 46)
         Me.Label5.TabIndex = 11
         Me.Label5.Text = "คำนวนค่าไฟ"
         '
@@ -267,7 +267,7 @@ Partial Class Form1
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label6.Location = New System.Drawing.Point(609, 308)
+        Me.Label6.Location = New System.Drawing.Point(588, 300)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(73, 36)
         Me.Label6.TabIndex = 13

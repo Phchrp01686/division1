@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\iigluayy\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {}
+    "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {}
   },
   "projects": {
-    "E:\\Users\\iigluayy\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {
+    "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\iigluayy\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
+        "projectUniqueName": "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
         "projectName": "water bill program",
-        "projectPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
-        "packagesPath": "C:\\Users\\iigluayy\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\water-bill-program\\water bill program\\water bill program\\obj\\",
+        "projectPath": "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\water bill program.vbproj",
+        "packagesPath": "C:\\Users\\PRWz\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjGit\\water-bill-program\\water bill program\\water bill program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\iigluayy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PRWz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
