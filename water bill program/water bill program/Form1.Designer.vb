@@ -514,7 +514,7 @@ Partial Class Form1
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        this.Close()
+        Me.Close()
     End Sub
 
     Friend WithEvents home As DataGridViewTextBoxColumn
