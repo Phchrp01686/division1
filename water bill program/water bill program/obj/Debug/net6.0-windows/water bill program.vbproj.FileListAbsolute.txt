@@ -1,0 +1,17 @@
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.exe
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.deps.json
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.runtimeconfig.json
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.dll
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\bin\Debug\net6.0-windows\water bill program.pdb
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.vbproj.AssemblyReference.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water_bill_program.Form1.resources
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.vbproj.GenerateResource.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.AssemblyInfoInputs.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.AssemblyInfo.vb
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.vbproj.CoreCompileInputs.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.dll
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\refint\water bill program.dll
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.pdb
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\water bill program.genruntimeconfig.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\water-bill-program\water bill program\water bill program\obj\Debug\net6.0-windows\ref\water bill program.dll
