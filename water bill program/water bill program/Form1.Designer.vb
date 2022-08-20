@@ -267,7 +267,7 @@ Partial Class Form1
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label6.Location = New System.Drawing.Point(609, 308)
+        Me.Label6.Location = New System.Drawing.Point(588, 298)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(73, 36)
         Me.Label6.TabIndex = 13
@@ -277,7 +277,7 @@ Partial Class Form1
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label7.Location = New System.Drawing.Point(856, 308)
+        Me.Label7.Location = New System.Drawing.Point(856, 298)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(64, 36)
         Me.Label7.TabIndex = 15
@@ -426,6 +426,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.AppWorkspace
         Me.ClientSize = New System.Drawing.Size(1212, 649)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Button3)
